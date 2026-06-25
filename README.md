@@ -1,5 +1,3 @@
-# OWASP-Top10-Labs
-
 # OWASP Top 10 Labs
 
 ## Overview
